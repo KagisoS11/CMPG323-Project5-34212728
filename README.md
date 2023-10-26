@@ -89,3 +89,64 @@ Once you've obtained the project files, you need to connect to the data sources.
 - Apply filters to customize the view based on your specific needs. Filters for product category, customer, and order number are available.
 
 ## Reference List Document
+1. Microsoft Learn. (n.d.). Introduction to Power BI. https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/
+
+2. Microsoft Learn. (n.d.). Model Data in Power BI. https://docs.microsoft.com/en-us/learn/paths/model-power-bi/
+
+3. Spreadsheeto. (n.d.). Power BI Best Practices. https://spreadsheeto.com/power-bi-best-practices/#:~:text=1%20Put%20first%20things%20first.%20This%20one%20is,with%20numeric%20data%2C%20use%20integers%20instead%20of%20strings.
+
+4. Microsoft Power BI. (n.d.). Storytelling in Power BI. https://powerbi.microsoft.com/en-us/data-storytelling/
+
+5. Microsoft Power BI. (n.d.). Power BI Documentation. https://docs.microsoft.com/en-us/power-bi/
+
+6. Power BI Community. (n.d.). Power BI Community. https://community.powerbi.com/
+
+7. Microsoft Power BI Blog. (n.d.). Power BI Blog. https://powerbi.microsoft.com/en-us/blog/
+
+8. Microsoft Power BI. (n.d.). Power BI YouTube Channel. https://www.youtube.com/user/mspowerbi
+
+9. Microsoft Power BI. (n.d.). Power BI Guided Learning. https://docs.microsoft.com/en-us/power-bi/guided-learning/
+
+10. Microsoft Power BI. (n.d.). Power BI DAX Function Reference. https://docs.microsoft.com/en-us/dax/
+
+11. Microsoft Power Query. (n.d.). Power BI Query Language (M) Reference. https://docs.microsoft.com/en-us/powerquery-m/
+
+12. Microsoft Power BI. (n.d.). Power BI Data Modeling Guide. https://docs.microsoft.com/en-us/power-bi/guidance/
+
+13. Microsoft Power BI. (n.d.). Power BI Developer Documentation. https://docs.microsoft.com/en-us/power-bi/developer/
+
+14. Microsoft Power BI. (n.d.). Power BI Custom Visuals Documentation. https://docs.microsoft.com/en-us/power-bi/developer/custom-visuals/
+
+15. PBI User Group. (n.d.). Power BI User Groups. https://www.pbiusergroup.com/
+
+16. Microsoft Learn. (n.d.). Power BI Learning Resources on Microsoft Learn. https://learn.microsoft.com/en-us/power-bi/
+
+17. Stack Overflow. (n.d.). Microsoft Power BI Community on Stack Overflow. https://stackoverflow.com/questions/tagged/powerbi
+
+18. Amazon. (n.d.). Power BI Books on Amazon. https://www.amazon.com/s?k=power+bi+books
+
+19. Microsoft Power BI. (n.d.). Power BI Case Studies. https://powerbi.microsoft.com/en-us/case-studies/
+
+20. Microsoft Power BI. (n.d.). Power BI Whitepapers. https://powerbi.microsoft.com/en-us/whitepapers/
+
+21. Microsoft Power BI. (n.d.). Power BI Security Documentation. https://docs.microsoft.com/en-us/power-bi/admin/service-security-data-gateway
+
+22. Microsoft Power BI. (n.d.). Power BI Dataflows Documentation. https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-dataflows
+
+23. Microsoft Power BI. (n.d.). Power BI Embedded Documentation. https://docs.microsoft.com/en-us/power-bi/developer/embedded/
+
+24. Microsoft Power BI. (n.d.). Power BI REST API Reference. https://docs.microsoft.com/en-us/rest/api/power-bi/
+
+25. Microsoft GitHub. (n.d.). Power BI GitHub Repository. https://github.com/Microsoft/PowerBI-visuals
+
+26. YouTube. (n.d.). Power BI Tutorials on YouTube. https://www.youtube.com/results?search_query=power+bi+tutorial
+
+27. Twitter. (n.d.). Power BI Twitter Community. https://twitter.com/hashtag/PowerBI
+
+28. Power BI Ideas. (n.d.). Power BI User Voice. https://ideas.powerbi.com/
+
+29. Microsoft Power BI. (n.d.). Power BI Custom Visuals Gallery. https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals
+
+30. Microsoft Power BI. (n.d.). Power BI Webinars and Events. https://powerbi.microsoft.com/en-us/webinars-training/
+
+Please make sure to format these references according to your specific university or institution's Harvard style guidelines, as they may have slight variations.
