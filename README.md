@@ -24,6 +24,8 @@ The primary goal of this project is to create a robust Power BI report that empo
 
 ## Technical Requirements
 
+Credentials : 34212728@mynwu.ac.za
+
 In order to access and effectively use this Power BI report, stakeholders should ensure they have:
 
 - Installed Power BI Desktop, which can be downloaded from [here](https://powerbi.microsoft.com/en-us/get-started/).
