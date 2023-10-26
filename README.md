@@ -148,5 +148,3 @@ Once you've obtained the project files, you need to connect to the data sources.
 29. Microsoft Power BI. (n.d.). Power BI Custom Visuals Gallery. https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals
 
 30. Microsoft Power BI. (n.d.). Power BI Webinars and Events. https://powerbi.microsoft.com/en-us/webinars-training/
-
-Please make sure to format these references according to your specific university or institution's Harvard style guidelines, as they may have slight variations.
